@@ -1,108 +1,83 @@
-<!-- ================= HERO BANNER ================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:9333ea&height=200&section=header&text=Debanshu%20Sekhar%20Mallik&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20Distributed%20Systems%20Architect&descAlignY=55&descSize=18"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Hi!+I'm+Debanshu+Sekhar+Mallik;Backend+Systems+Engineer;Microservices+Architect;Production-First+Developer)](https://git.io/typing-svg)
 
-<!-- ================= TYPING HEADER ================= -->
+*Designing scalable backend systems with architectural clarity.*
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&color=A855F7&center=true&vCenter=true&width=600&lines=Designing+Scalable+Backend+Systems;Microservices+with+Clear+Boundaries;Production-First+Engineering+Mindset" />
-</p>
+<br/>
 
-<!-- ================= VISITOR COUNTER ================= -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Debanshu-mallik&color=7c3aed&style=flat-square&label=Profile+Views" />
-</p>
+</div>
 
 ---
 
-## 🧠 Architectural Philosophy
+## 🛠 Architecture Stack
 
-- Systems over scripts  
-- Scalability over shortcuts  
-- Structure over hacks  
-- Security by design  
-- Clean service boundaries  
+<table>
+<tr>
+<td valign="top" width="33%">
 
-I build backend systems that are modular, testable, and deployment-ready from day one.
+### Backend Core
+
+![Java](https://img.shields.io/badge/-Java-5b21b6?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6d28d9?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-7c3aed?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-9333ea?style=flat&logo=hibernate&logoColor=white)
+
+</td>
+
+<td valign="top" width="33%">
+
+### Data & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-5b21b6?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-6d28d9?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-7c3aed?style=flat&logo=redis&logoColor=white)
+
+</td>
+
+<td valign="top" width="33%">
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/-Docker-5b21b6?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-6d28d9?style=flat&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-7c3aed?style=flat&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:9333ea&height=3&section=header"/>
-</p>
-
-## ⚙️ Systems I Engineer
+## 🚀 System Design Focus
 
 - RESTful API architectures  
-- JWT-based authentication & role-based authorization  
-- Microservices with isolated responsibilities  
-- Dockerized production-ready environments  
-- CI/CD-ready repositories  
+- JWT-based authentication & RBAC  
+- Clean microservice boundaries  
+- Containerized deployment pipelines  
+- Production-ready backend structure  
 
 ---
 
-## 🛠 Core Stack
+<div align="center">
 
-**Backend**  
-`Java` • `Spring Boot` • `Spring Security` • `JPA / Hibernate` • `REST`
+### GitHub Engineering Activity
 
-**Databases**  
-`PostgreSQL` • `MySQL`
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="830"/>
 
-**DevOps & Infrastructure**  
-`Docker` • `GitHub Actions` • `Linux`
+<br/>
 
-**Frontend (Supporting Layer)**  
-`React` • `TypeScript`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&color=a855f7&line=a855f7&point=9333ea" width="830"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:9333ea&height=3&section=header"/>
-</p>
+<div align="center">
 
-## 🚀 Featured Systems
+*"Architecture is not what we build. It is how we think."*
 
-### 🎬 Streaming Platform Backend
-- Secure JWT authentication  
-- Modular service structure  
-- Role-based access control  
-- Containerized deployment  
-
-### 🌐 Full-Stack Portfolio System
-- Backend–frontend separation  
-- Structured deployment workflow  
-- Docker-based environment  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:9333ea&height=3&section=header"/>
-</p>
-
-## 📊 Engineering Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
-</p>
-
----
-
-## 🔭 Current Focus
-
-- Designing clean microservice boundaries  
-- Deepening distributed systems knowledge  
-- Writing scalable, production-grade backend code  
-
----
-
-<p align="center">
-  <i>"Architecture is not what we build. It is how we think."</i>
-</p>
+</div>
