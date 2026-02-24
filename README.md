@@ -13,7 +13,7 @@
 <!-- ================= VISITOR COUNTER ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Debanshu-mallik&color=7c3aed&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
