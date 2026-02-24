@@ -66,11 +66,11 @@
 
 ### GitHub Engineering Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="830"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Debanshu-mallik&theme=tokyonight&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="830"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&color=a855f7&line=a855f7&point=9333ea" width="830"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debanshu-mallik&theme=tokyo-night&hide_border=true&color=a855f7&line=a855f7&point=9333ea" width="830"/>
 
 </div>
 
